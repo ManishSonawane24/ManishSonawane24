@@ -25,6 +25,7 @@ I bring expertise in `Development`, driven by the belief that **great code** can
 ![](https://github-contributor-stats.vercel.app/api?username=ManishSonawane24&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishSonawane24&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshhr" /> </p>
 [![](https://visitcount.itsvg.in/api?id=ManishSonawane24&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
