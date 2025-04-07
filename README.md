@@ -1,5 +1,9 @@
 Hi there I'm Manish Sonawane,<br>I'm a Full-Stack Web Developer and AI Enthusiast,<br>Pursuing Computer Engineering at Vishwakarma Institute of Information Technology Pune,
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishSonawane24&theme=algolia&no-frame=true&no-bg=true&row=1" alt="trophy" />
+</div>
+
 > "Passionate about **writing meaningful code** and **crafting solutions that leave a mark**.  
 I bring expertise in `Development`, driven by the belief that **great code** can change the world."
 
