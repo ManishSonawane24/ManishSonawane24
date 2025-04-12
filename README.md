@@ -1,4 +1,7 @@
-Hi there I'm Manish Sonawane,<br>I'm a Full-Stack Web Developer and AI Enthusiast,<br>Pursuing Computer Engineering at Vishwakarma Institute of Information Technology Pune,
+<h1 align="center">Hi, I'm Manish Sonawane</h1>
+<h3 align="center">I'm a Full-Stack Web Developer  &&  AI Enthusiast</h3>
+
+<br><br><h4>Pursuing Computer Engineering @`Vishwakarma Institute of Information Technology, Pune.`</h4>
 
 > "Passionate about **writing meaningful code** and **crafting solutions that leave a mark**.  
 I bring expertise in `Development`, driven by the belief that **great code** can change the world."
@@ -30,6 +33,6 @@ I bring expertise in `Development`, driven by the belief that **great code** can
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManishSonawane24&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshhr" /> </p>
-[![](https://visitcount.itsvg.in/api?id=ManishSonawane24&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=ManishSonawane24&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
