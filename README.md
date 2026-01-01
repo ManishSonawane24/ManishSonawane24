@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Manish Sonawane</h1>
-<h3 align="center">I'm a Full-Stack Web Developer  &&  AI Enthusiast</h3>
+<h3 align="center">I'm a Full-Stack Web Developer  and  AI Enthusiast</h3>
 
 <br><br><h4>Pursuing Computer Engineering @`Vishwakarma Institute of Information Technology, Pune.`</h4>
 
-> "Passionate about **writing meaningful code** and **crafting solutions that leave a mark**.  
+> "Passionate about **writing meaningful code** and **crafting solutions that leave a mark on real world**.  
 I bring expertise in `Development`, driven by the belief that **great code** can change the world."
 
 
