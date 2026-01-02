@@ -4,7 +4,7 @@
 <br><br><h4>Pursuing Computer Engineering @`Vishwakarma Institute of Information Technology, Pune.`</h4>
 
 > "Passionate about **writing meaningful code** and **crafting solutions that leave a mark on real world**.  
-I bring expertise in `Development`, driven by the belief that **great code** can change the world."
+I bring expertise in `Development`, driven by the belief that **a great code** can change the world."
 
 
 ## 🌐 Socials:
